@@ -16,10 +16,12 @@
 4. The output will be saved in a file named `Binded_Texts.txt` in the same directory.
 5. The tool will print the total number of unique lines added to the output file.
 
+## Usage without install C++ Developer
+- Use the RELEASE .EXE version and done!
+
 ### Requirements
 - C++11 or later
 - Standard libraries: `<iostream>`, `<fstream>`, `<sstream>`, `<unordered_set>`, `<filesystem>`, `<string>`
-
 ### Installation
 Clone the repository and navigate to the project directory:
 
